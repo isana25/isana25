@@ -2,8 +2,8 @@
 <div style="text-align: right">
 </div>
 
-# Hi there, I'm Sana <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-<img align='right' src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="250">
+# Hi there, I'm Sana <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="50">
+<img align='right' src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="270">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
