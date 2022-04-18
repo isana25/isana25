@@ -82,6 +82,7 @@
     </tr>
   </tbody>
 </table>
+<br>
 
 ## 📕 Latest Blog Posts
 
