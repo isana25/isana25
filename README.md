@@ -58,7 +58,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://i.giphy.com/media/eGO8AfEHjNKKNOPCrl/giphy.webp"/></td>
+	    <td><p>⭐⭐⭐⭐</p></td>
   
     </tr>
   </tbody>
