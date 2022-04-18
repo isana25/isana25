@@ -53,7 +53,7 @@
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
 	    <td><b>⭐ Stars</b></td>
-    </tr>
+	  </tr>
   </thead>
   <tbody>
     <tr>
