@@ -28,8 +28,6 @@
 ----
 <br>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -49,7 +47,8 @@ const sana = {
 ----
 <br>
 
-
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
