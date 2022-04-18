@@ -21,10 +21,9 @@
 
 ## 👨‍💻 Whoami!!
 
-- 🌱 I’m currently learning Blockchain
-- 👯 I’m looking to contribute to open source
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn as much as I can
-- ⚡ Fun fact: I love to play games
+- 💻 A highly resourceful Front End Developer with over four years of Experience. 
+- ⭐ Have 3 years of experience in WordPRess Development and Designing. 
+- 🥅 2022 Goals: Contribute more to Open Source projects and learn as much as I can
 <br>
 ----
 <br>
@@ -32,21 +31,14 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const vedant = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python","HTML", "CSS","MySQL"],
-    askMeAbout: ["WebDev", "Tech", "Gaming"],
-    technologies: {
-        backEnd: {
-            js: ["Node"],
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp","discord.py"]
-    },
-    currentFocus: "Python",
-    fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
-          The second byte replies, 'No, just feeling a bit off.'"
+const sana = {
+    pronouns: "She" | "Hem",
+    code: ["Javascript","HTML", "CSS","MySQL"],
+    askMeAbout: ["WebDev", "Tech"],
+    technologies: [ "FrontEnd"],
+    databases: [ "MySql", "sqlite"],
+    misc: ["Firebase", "php", "SuiteApp","discord.py"]
+    }
 };
 ```
 <br>
@@ -54,17 +46,8 @@ const vedant = {
 ----
 <br>
 
-## Now Playing
-
-
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae)
-
-----
-<br>
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
