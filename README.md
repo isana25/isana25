@@ -3,7 +3,7 @@
 </div>
 
 # Hi there, I'm Sana <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-<img align='right' src="https://giphy.com/gifs/ULUQvQ0LeGKZvvxk7Y" height="100" width="100">
+<img align='right' src="https://media2.giphy.com/media/ULUQvQ0LeGKZvvxk7Y/giphy.gif?cid=790b761119ca0cf7a6101c21da7943b78f1febe28d86a4ce&rid=giphy.gif&ct=g" height="100" width="100">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor">
