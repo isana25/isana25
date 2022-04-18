@@ -1,6 +1,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
 <div style="text-align: right">
-<img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
 </div>
 
 # Hi there, I'm Sana <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
