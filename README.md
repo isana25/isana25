@@ -25,7 +25,6 @@
 - ⭐ Have 3 years of experience in WordPRess Development and Designing. 
 - 🥅 2022 Goals: Contribute more to Open Source projects and learn as much as I can
 <br>
-----
 <br>
 
 ## 🚀💻Programming Languages
