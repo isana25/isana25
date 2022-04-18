@@ -52,7 +52,7 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-	    <td><b>⭐ Feedback</b></td>
+	    <td><b>⭐ Stars</b></td>
     </tr>
   </thead>
   <tbody>
