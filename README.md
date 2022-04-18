@@ -6,7 +6,7 @@
 <img align='right' src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="350">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Front+End+Developer;WordPress Designer/Developer">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Front+End+Developer;">
 </p>
 
 ----
