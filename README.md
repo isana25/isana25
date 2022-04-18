@@ -19,7 +19,7 @@
 <br>
 <br>
 
-## I'm a Student!!
+## 👨‍💻 Whoami!!
 
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to contribute to open source
