@@ -53,11 +53,13 @@
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
 	    <td><b>⭐ Feedback</b></td>
+	    <td>📕 Niche</td>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
       <td><p>⭐⭐⭐⭐</p></td>
+	    <td>Business Website</td>
     </tr>
   </tbody>
 </table>
