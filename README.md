@@ -1,4 +1,4 @@
-# Hi there, I'm Sana <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="30">
+# Hi there, I'm Sana
 <img align="right" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="350">
 
 <p align="center">
@@ -37,20 +37,3 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
 </p>
-
----
-
-## 🧠 Programming Languages
-
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg" width="30"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg" width="30"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png" width="30"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" width="30"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg" width="30"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg" width="30"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" width="30"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg" width="30"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg" width="33"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg" width="33"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg" width="40"/>
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg" width="30"/>
