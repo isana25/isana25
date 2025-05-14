@@ -18,7 +18,7 @@
 
 - 💻 Front End Developer with 3+ years of experience  
 - ⭐ 4+ years in WordPress development & design  
-- 🥅 2022 Goal: Contribute more to open source and learn continuously  
+- 🥅 2025 Goal: Contribute more to open source and learn continuously  
 
 ---
 
