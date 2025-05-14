@@ -16,9 +16,12 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Front End Developer with 3+ years of experience  
-- ⭐ 4+ years in WordPress development & design  
-- 🥅 2025 Goal: Contribute more to open source and learn continuously  
+- 💻 Frontend Developer with 4+ years of professional experience  
+- 🔧 Team Lead Web Developer at **EPTeck GmbH**  
+- 🎓 Section Leader (TA) at **Stanford Code in Place 2025** (Volunteer)  
+- 🤖 AI/ML enthusiast focused on building real-world solutions with GenAI  
+- 📊 Participated in the **Kaggle x Google 5-Day Generative AI Course**  
+- 🥅 2025 Goal: Contribute more to open source and keep learning continuously  
 
 ---
 
