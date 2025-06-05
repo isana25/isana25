@@ -19,7 +19,7 @@
 - 💻 Frontend Developer with 4+ years of professional experience  
 - 🎓 Section Leader (TA) at **Stanford Code in Place 2025** (Volunteer)  
 - 🤖 AI/ML enthusiast focused on building real-world solutions with GenAI  
-- 🌍 Active participant on **[Lablab.ai]([https://lablab.ai/u/your-username](https://lablab.ai/u/@sana_ashfaq758)** – collaborating in global GenAI hackathons  
+- 🌍 Active participant on **[Lablab.ai](https://lablab.ai/u/@sana_ashfaq758)** – collaborating in global GenAI hackathons  
 - 📊 Participated in the **Kaggle x Google 5-Day Generative AI Course**  
 - 🥅 2025 Goal: Contribute more to open source and keep learning continuously
 
