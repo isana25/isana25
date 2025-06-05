@@ -11,17 +11,23 @@
 <a href="https://twitter.com/SanaAshfaq14"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/sana-ashfaq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:sanaishfaq25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://lablab.ai/u/your-username](https://lablab.ai/u/@sana_ashfaq758">
+  <img src="https://img.shields.io/badge/Lablab.ai-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu
+b3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjMDAwMDAwIi8+Cjx0ZXh0IHg9IjEwIiB5PSIxNC
+IgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxMCIgZmlsbD0id2hpdGUiPkxhYmxhYjwvdGV4dD4KPC9zdmc+" alt="Lablab.ai">
+</a>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 💻 Frontend Developer with 4+ years of professional experience  
-- 🔧 Team Lead Web Developer at **EPTeck GmbH**  
 - 🎓 Section Leader (TA) at **Stanford Code in Place 2025** (Volunteer)  
 - 🤖 AI/ML enthusiast focused on building real-world solutions with GenAI  
+- 🌍 Active participant on **[Lablab.ai]([https://lablab.ai/u/your-username](https://lablab.ai/u/@sana_ashfaq758)** – collaborating in global GenAI hackathons  
 - 📊 Participated in the **Kaggle x Google 5-Day Generative AI Course**  
-- 🥅 2025 Goal: Contribute more to open source and keep learning continuously  
+- 🥅 2025 Goal: Contribute more to open source and keep learning continuously
+
 
 ---
 
