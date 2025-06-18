@@ -1,5 +1,5 @@
 # Hi there, I'm Sana
-### Check my AI portfolio: [https://isanagithub.io](https://isana25.github.io/)
+### Check my AI portfolio along Certifications: [https://isanagithub.io](https://isana25.github.io/)
 <img align="right" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="350">
 
 <p align="center">
@@ -17,7 +17,8 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Frontend Developer with 4+ years of professional experience  
+- 💻 Frontend Developer with 4+ years of professional experience
+- 💻 Certified Generative AI Application Developer 
 - 🎓 Section Leader (TA) at **Stanford Code in Place 2025** (Volunteer)  
 - 🤖 AI/ML enthusiast focused on building real-world solutions with GenAI  
 - 🌍 Active participant on **[Lablab.ai](https://lablab.ai/u/@sana_ashfaq758)** – collaborating in global GenAI hackathons  
