@@ -1,6 +1,5 @@
 # Hi there, I'm Sana
-### Check my AI portfolio along Certifications: [https://isanagithub.io](https://isana25.github.io/)
-<img align="right" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="350">
+### Check my AI portfolio along with Certifications: [https://isanagithub.io](https://isana25.github.io/)
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Front+End+Developer;">
