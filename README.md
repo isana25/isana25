@@ -5,8 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Front+End+Developer;">
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 - 💻 Certified Generative AI Application Developer 
@@ -16,8 +14,6 @@
 - 📊 Participated in the **Kaggle x Google 5-Day Generative AI Course**  
 - 🥅 2025 Goal: Contribute more to open source and keep learning continuously
 
-
----
 
 ## 🚀 Technologies I Use
 
